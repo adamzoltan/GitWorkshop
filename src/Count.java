@@ -1,11 +1,7 @@
 public class Count {
 
-  public static void count() {
-
-    System.out.println(4);
-    System.out.println(4);
-
-    System.out.println(5);
-
+  public static void count(int a, int b) {
+    System.out.println(a);
+    System.out.println(b);
   }
 }
