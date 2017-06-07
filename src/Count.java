@@ -1,11 +1,9 @@
 public class Count {
 
-  public static void count() {
+  public static void count(int a, int b) {
 
-    System.out.println(4);
-    System.out.println(4);
-
-    System.out.println(5);
+    System.out.println("Counting the countless" + a);
+    System.out.println("Counting the countless" + b);
 
   }
 }
